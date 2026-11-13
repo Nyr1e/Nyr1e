@@ -74,7 +74,7 @@ People who engage in harassment or bullying.
 Individuals who disrespect boundaries.
 People who deliberately provoke drama or conflict.
 Those who make others uncomfortable or unsafe.
-[Other criteria]
+
 
 </td>
 <td width="50%" valign="top">
@@ -88,9 +88,6 @@ I can talk about serious and joke topics, I enjoy both
 </td>
 </tr>
 </table>
-
-# 03 ; INTERESTS & FANDOMS
-
 <div align="center">
 
 <img src="https://media.discordapp.net/attachments/1535761425270841365/1570825230216073256/tumblr_2968aee69a15433fbbcc1d554fe1951f_9da0b591_6408.png?ex=6af8807f&is=6af72eff&hm=9e7f3437f13eceb10a07090d388db8d6611cb99b98bd95dfe6873ec2764b91bc&format=webp&quality=lossless" width="50%">
@@ -104,7 +101,7 @@ I can talk about serious and joke topics, I enjoy both
 <h3>“I don't need any proofs for you; there is nothing in my mind as clear and certain as you....”
 ― Franz Kafka, Letters to Milena</h3>
 
-# 04 ; CONTACT / LINKS
+# 03 ; CONTACT / LINKS
 
 <div align="center">
 
