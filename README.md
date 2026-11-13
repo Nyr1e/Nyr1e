@@ -84,7 +84,7 @@ I may make jokes or use sarcasm, please let me know if something makes you uncom
 I appreciate respectful conversations and mutual understanding.
 Please don't assume my tone or intentions without asking.
 I can talk about serious and joke topics, I enjoy both
-[Other information]
+
 </td>
 </tr>
 </table>
